@@ -50,7 +50,7 @@ The released files keep only the retrieval document identifiers and their rankin
 A helper script at the GitHub repository reconstructs the full passages from a local MedRAG-style corpus.
 
 - Paper: see the GitHub repository
-- Code: https://github.com/finale22/medjudgerag
+- Code: https://github.com/hyu-amllab/medjudgerag
 
 ## Dataset Configurations
 
